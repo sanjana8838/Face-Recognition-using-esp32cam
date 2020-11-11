@@ -11,3 +11,9 @@
 - camerapins.h holds the pin definitions of the esp32 cam module
 - The esp32 cam is made to click images in the loop() and predict the image's class
 - If a classification is made, a 0/1 is printed in the serial monitor
+
+## Resources Referred 
+- https://eloquentarduino.github.io/2019/11/how-to-train-a-classifier-in-scikit-learn/
+- https://eloquentarduino.github.io/2019/11/you-can-run-machine-learning-on-arduino/
+- https://techtutorialsx.com/2020/06/13/esp32-camera-face-detection/
+- https://www.survivingwithandroid.com/esp32-cam-image-classification-machine-learning/
