@@ -1,9 +1,10 @@
 # Face-Recognition-using-esp32cam
 
 ## Tools used
-1. Libraries - numpy, glob, os, PIL
+1. Python Libraries - numpy, glob, os, PIL, sklearn
 2. micromlgen package - https://github.com/agrimagsrl/micromlgen.git
 3. Arduino IDE
+4. Hardware - ESP32 CAM
 
 ## Procedure
 - A supervised model is created using SVM in python
